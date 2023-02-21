@@ -1,0 +1,1493 @@
+﻿Log file open, 01/27/23 16:12:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=15712)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FirstPersonHorror
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "I:/3D Horror/FirstPersonHorror/FirstPersonHorror.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2486] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="17a129c54e1c3889cbd44593713c04e6"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.349683
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-366666EA499707B6394A8484B47E3C17
+         Session CrashGUID >====================================================
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Android ini files took 0.18 seconds
+LogConfig: Display: Loading Mac ini files took 0.18 seconds
+LogConfig: Display: Loading IOS ini files took 0.18 seconds
+LogConfig: Display: Loading TVOS ini files took 0.18 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogConfig: Display: Loading HoloLens ini files took 0.20 seconds
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading Unix ini files took 0.24 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.24 seconds
+LogConfig: Display: Loading Linux ini files took 0.24 seconds
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogConfig: Display: Loading Windows ini files took 0.16 seconds
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2486] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.27-16.12.57:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.27-16.12.57:360][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.27-16.12.57:360][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.27-16.12.57:365][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.27-16.12.57:401][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.27-16.12.57:401][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.27-16.12.57:517][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.27-16.12.57:517][  0]LogD3D12RHI: Adapter has 6023MB of dedicated video memory, 0MB of dedicated system memory, and 8123MB of shared system memory, 1 output[s]
+[2023.01.27-16.12.57:536][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2023.01.27-16.12.57:536][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8123MB of shared system memory, 1 output[s]
+[2023.01.27-16.12.57:543][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.27-16.12.57:543][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8123MB of shared system memory, 0 output[s]
+[2023.01.27-16.12.57:543][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.27-16.12.57:543][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.27-16.12.57:543][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.27-16.12.57:543][  0]LogHAL: Display: Platform has ~ 16 GB [17036509184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.27-16.12.57:543][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.27-16.12.57:543][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.27-16.12.57:543][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.27-16.12.57:544][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.27-16.12.57:544][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/3D Horror/FirstPersonHorror/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.27-16.12.57:544][  0]LogInit: Computer: UC207-STU7657L
+[2023.01.27-16.12.57:544][  0]LogInit: User: 30258818
+[2023.01.27-16.12.57:544][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.27-16.12.57:544][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.27-16.12.57:544][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2023.01.27-16.12.57:544][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.27-16.12.57:544][  0]LogMemory: Process Physical Memory: 274.09 MB used, 280.75 MB peak
+[2023.01.27-16.12.57:544][  0]LogMemory: Process Virtual Memory: 234.75 MB used, 234.75 MB peak
+[2023.01.27-16.12.57:544][  0]LogMemory: Physical Memory: 6074.75 MB used,  10172.54 MB free, 16247.28 MB total
+[2023.01.27-16.12.57:544][  0]LogMemory: Virtual Memory: 14012.52 MB used,  3891.65 MB free, 17904.17 MB total
+[2023.01.27-16.12.57:544][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.27-16.12.57:548][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.27-16.12.57:562][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.27-16.12.57:570][  0]LogInit: Using OS detected language (en-GB).
+[2023.01.27-16.12.57:570][  0]LogInit: Using OS detected locale (en-GB).
+[2023.01.27-16.12.57:575][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2023.01.27-16.12.57:700][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.27-16.12.57:719][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.27-16.12.57:719][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2023.01.27-16.12.57:719][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2023.01.27-16.12.57:750][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.27-16.12.57:750][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.27-16.12.57:917][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.27-16.12.57:922][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.27-16.12.57:922][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.27-16.12.57:987][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.27-16.12.58:035][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.27-16.12.58:040][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.27-16.12.58:051][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.27-16.12.58:063][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.27-16.12.58:063][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.27-16.12.58:109][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.27-16.12.58:109][  0]LogWindows: Attached monitors:
+[2023.01.27-16.12.58:109][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1030), device: '\\.\DISPLAY1'
+[2023.01.27-16.12.58:109][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY4' [PRIMARY]
+[2023.01.27-16.12.58:109][  0]LogWindows: Found 2 attached monitors.
+[2023.01.27-16.12.58:109][  0]LogWindows: EnumDisplayDevices:
+[2023.01.27-16.12.58:109][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:0 D:1), name: '\\.\DISPLAY1'
+[2023.01.27-16.12.58:109][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.27-16.12.58:110][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.27-16.12.58:110][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:1 D:1), name: '\\.\DISPLAY4'
+[2023.01.27-16.12.58:110][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.01.27-16.12.58:110][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.01.27-16.12.58:110][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.01.27-16.12.58:111][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.27-16.12.58:111][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.01.27-16.12.58:111][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2023.01.27-16.12.58:111][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2023.01.27-16.12.58:111][  0]LogRHI: Texture pool is 3310 MB (70% of 4729 MB)
+[2023.01.27-16.12.58:111][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.27-16.12.58:111][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.27-16.12.58:118][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.27-16.12.58:126][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="I:/3D Horror/FirstPersonHorror/FirstPersonHorror.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="I:/3D Horror/FirstPersonHorror/Intermediate/TurnkeyReport_0.log" -log="I:/3D Horror/FirstPersonHorror/Intermediate/TurnkeyLog_0.log" -project="I:/3D Horror/FirstPersonHorror/FirstPersonHorror.uproject"  -platform=all'
+[2023.01.27-16.12.58:126][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="I:/3D Horror/FirstPersonHorror/FirstPersonHorror.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="I:/3D Horror/FirstPersonHorror/Intermediate/TurnkeyReport_0.log" -log="I:/3D Horror/FirstPersonHorror/Intermediate/TurnkeyLog_0.log" -project="I:/3D Horror/FirstPersonHorror/FirstPersonHorror.uproject"  -platform=all" ]
+[2023.01.27-16.12.58:168][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.27-16.12.58:175][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.27-16.12.58:175][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.27-16.12.58:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.27-16.12.58:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.27-16.12.58:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.27-16.12.58:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.27-16.12.58:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.27-16.12.58:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.27-16.12.58:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.27-16.12.58:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.27-16.12.58:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.27-16.12.58:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.27-16.12.58:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.27-16.12.58:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.27-16.12.58:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.27-16.12.58:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.27-16.12.58:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.27-16.12.58:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.27-16.12.58:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.27-16.12.58:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.27-16.12.58:245][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.27-16.12.58:253][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.27-16.12.58:255][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.27-16.12.58:255][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.27-16.12.58:255][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.27-16.12.58:255][  0]LogTargetPlatformManager:   PCM
+[2023.01.27-16.12.58:258][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.27-16.12.58:258][  0]LogTargetPlatformManager:   BINKA
+[2023.01.27-16.12.58:258][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.27-16.12.58:258][  0]LogTargetPlatformManager:   OGG
+[2023.01.27-16.12.58:258][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.27-16.12.58:258][  0]LogTargetPlatformManager:   OPUS
+[2023.01.27-16.12.58:298][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.27-16.12.58:305][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.27-16.12.58:307][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.27-16.12.58:307][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.27-16.12.58:307][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.27-16.12.58:307][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.27-16.12.58:307][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.27-16.12.58:307][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.27-16.12.58:307][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.27-16.12.58:307][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.27-16.12.58:308][  0]LogShaderCompilers: Display: Compiling shader autogen file: I:/3D Horror/FirstPersonHorror/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.27-16.12.58:310][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.27-16.12.58:310][  0]LogShaderCompilers: Display: Compiling shader autogen file: I:/3D Horror/FirstPersonHorror/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.27-16.12.58:354][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.27-16.12.58:354][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.27-16.12.58:362][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/3D Horror/FirstPersonHorror/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.27-16.12.58:362][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.27-16.12.58:364][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/3D Horror/FirstPersonHorror/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.27-16.12.58:364][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.27-16.12.58:397][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.27-16.12.58:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.27-16.12.58:397][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.27-16.12.58:405][  0]LogDerivedDataCache: Speed tests for C:/Users/30258818/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.27-16.12.58:405][  0]LogDerivedDataCache: Display: Performance to C:/Users/30258818/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=571.06MBs, RandomWriteSpeed=165.12MBs. Assigned SpeedClass 'Local'
+[2023.01.27-16.12.58:406][  0]LogDerivedDataCache: Using Local data cache path C:/Users/30258818/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.27-16.12.58:406][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.27-16.12.58:406][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.27-16.12.58:435][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.27-16.12.58:435][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.27-16.12.58:435][  0]LogShaderCompilers: Guid format shader working directory is 18 characters bigger than the processId version (I:/3D Horror/FirstPersonHorror/Intermediate/Shaders/WorkingDirectory/12040/).
+[2023.01.27-16.12.58:435][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/30258818/AppData/Local/Temp/UnrealShaderWorkingDir/18E4E8174C81F92261023A8FD8ABD4B7/'.
+[2023.01.27-16.12.58:435][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.27-16.12.58:436][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.01.27-16.12.59:678][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.27-16.12.59:679][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.27-16.12.59:719][  0]LogAssetRegistry: FAssetRegistry took 0.0138 seconds to start up
+[2023.01.27-16.12.59:724][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.27-16.12.59:870][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.27-16.12.59:871][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.27-16.13.00:232][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.27-16.13.00:232][  0]LogDeviceProfileManager: Active device profile: [0000067D14D62140][0000067D0A76A000 50] WindowsEditor
+[2023.01.27-16.13.00:232][  0]LogDeviceProfileManager: Profiles: [0000067D14D61C00][0000067D0A762800 50] Windows, [0000067D14D62140][0000067D0A76A000 50] WindowsEditor, [0000067D14D60000][0000067D0F06C800 50] WindowsServer, [0000067D14D61880][0000067D0A725000 50] WindowsClient, [0000067D14D60E00][0000067CFD1B7800 50] IOS, [0000067D14D624C0][0000067D0F06A000 50] iPadAir2, [0000067D14D64EC0][0000067D14D70000 50] IPadPro, [0000067D14D65240][0000067D14D72800 50] iPadAir3, [0000067D14D62300][0000067D14D77800 50] iPadAir4, [0000067D14D63B80][0000067D14D7A000 50] iPadMini4, [0000067D14D64440][0000067D14D7C800 50] iPadMini5, [0000067D14D60C40][0000067D0A760000 50] iPadMini6, [0000067D14D67A80][0000067D14D82800 50] iPhone6S, [0000067D14D678C0][0000067D14D80000 50] iPhone7, [0000067D14D67540][0000067D14D85000 50] iPodTouch7, [0000067D14D639C0][0000067D14D8A000 50] iPhone6SPlus, [0000067D14D62F40][0000067D14D8C800 50] iPhone7Plus, [0000067D14D60380][0000067D14D75000 50] iPhoneSE, [0000067D14D66740][0000067D14D87800 50] iPhone8, [0000067D14D60A80][0000067D14D90000 50] iPhone8Plus, [0000067D14D64980][0000067D14D95000 50] iPhoneX, [0000067D14D61180][0000067D14D97800 50] iPhoneXS, [0000067D14D66C80][0000067D14D9A000 50] iPhoneXSMax, [0000067D14D60540][0000067D14D9C800 50] iPhoneXR, [0000067D14D640C0][0000067D0A727800 50] iPhone11, [0000067D14D63100][0000067D14D30000 50] iPhone11Pro, [0000067D14D66200][0000067D14D35000 50] iPhone11ProMax, [0000067D14D601C0][0000067D14D37800 50] iPhoneSE2, [0000067D14D655C0][0000067D14D3A000 50] iPhone12Mini, [0000067D14D63F00][0000067D14D3C800 50] iPhone12, [0000067D14D67000][0000067D14D92800 50] iPhone12Pro, [0000067D14D61F80][0000067D14D40000 50] iPhone12ProMax, [0000067D14D647C0][0000067D14D45000 50] iPhone13Mini, [0000067D14D65400][0000067D14D47800 50] iPhone13, [0000067D14D608C0][0000067D14D4A000 50] iPhone13Pro, [0000067D14D63D40][0000067D14D4C800 50] iPhone13ProMax, [0000067D14D63640][0000067D14D32800 50] iPadPro105, [0000067D14D63480][0000067D14DB0000 50] iPadPro129, [0000067D14D64600][0000067D14DB5000 50] iPadPro97, [0000067D14D62D80][0000067D14DB7800 50] iPadPro2_129, [0000067D14D62840][0000067D14DBA000 50] iPad5, [0000067D14D60700][0000067D14DBC800 50] iPad6, [0000067D14D65780][0000067D14D42800 50] iPad7, [0000067D14D65B00][0000067D14DC0000 50] iPad8, [0000067D14D64280][0000067D14DC5000 50] iPad9, [0000067D14D65CC0][0000067D14DC7800 50] iPadPro11, [0000067D14D66AC0][0000067D14DCA000 50] iPadPro2_11, [0000067D14D65E80][0000067D14DCC800 50] iPadPro3_11, [0000067D14D66900][0000067D14DB2800 50] iPadPro3_129, [0000067D14D663C0][0000067D14DD0000 50] iPadPro4_129, [0000067D14D66580][0000067D14DD5000 50] iPadPro5_129, [0000067D14D64B40][0000067D14DD7800 50] AppleTV, [0000067D14D65940][0000067D14DDA000 50] AppleTV4K, [0000067D14D68500][0000067D14DDC800 50] TVOS, [0000067D14D6A2C0][0000067D14E00000 50] Mac, [0000067D14D6A640][0000067D14E02800 50] MacEditor, [0000067D14D68880][0000067D14E07800 50] MacClient, [0000067D14D632C0][0000067D14E0A000 50] MacServer, [0000067D14D6A9C0][0000067D14DC2800 50] Linux, [0000067D14D66040][0000067D14DD2800 50] LinuxEditor, [0000067D14D69680][0000067D14E0C800 50] LinuxArm64Editor, [0000067D14D6A480][0000067D14DE0000 50] LinuxArm64, [0000067D14D68DC0][0000067D14DE5000 50] LinuxClient, [0000067D14D63800][0000067D14DE7800 50] LinuxArm64Client, [0000067D14D69300][0000067D14DEA000 50] LinuxServer, [0000067D14D686C0][0000067D14DEC800 50] LinuxArm64Server, [0000067D14D68340][0000067D14E05000 50] Android, [0000067D14D68C00][0000067D14DF0000 50] Android_Preview_OpenGL, [0000067D14D69F40][0000067D14DF5000 50] Android_Preview_Vulkan, [0000067D14D68A40][0000067D14DF7800 50] Android_Low, [0000067D14D62BC0][0000067D14DFA000 50] Android_Mid, [0000067D14D69D80][0000067D14DFC800 50] Android_High, [0000067D14D62A00][0000067D14DE2800 50] Android_Default, [0000067D14D616C0][0000067D14E10000 50] Android_Adreno4xx, [0000067D14D61500][0000067D14E15000 50] Android_Adreno5xx_Low, [0000067D14D61A40][0000067D14E17800 50] Android_Adreno5xx, [0000067D14D671C0][0000067D14E1A000 50] Android_Adreno6xx, [0000067D14D6AB80][0000067D14E1C800 50] Android_Adreno6xx_Vulkan, [0000067D14D69BC0][0000067D14DF2800 50] Android_Adreno7xx, [0000067D14D694C0][0000067D14E20000 50] Android_Adreno7xx_Vulkan, [0000067D14D6B440][0000067D14E25000 50] Android_Mali_T6xx, [0000067D14D69840][0000067D14E27800 50] Android_Mali_T7xx, [0000067D14D67380][0000067D14E2A000 50] Android_Mali_T8xx, [0000067D14D65080][0000067D14E2C800 50] Android_Mali_G71, [0000067D14D6B600][0000067D14E12800 50] Android_Mali_G72, [0000067D14D62680][0000067D14E30000 50] Android_Mali_G72_Vulkan, [0000067D14D6B980][0000067D14E35000 50] Android_Mali_G76, [0000067D14D66E40][0000067D14E37800 50] Android_Mali_G76_Vulkan, [0000067D14D6A800][0000067D14E3A000 50] Android_Mali_G77, [0000067D14D6C400][0000067D14E3C800 50] Android_Mali_G77_Vulkan, [0000067D14D61340][0000067D14E22800 50] Android_Mali_G78, [0000067D14D68180][0000067D14E40000 50] Android_Mali_G78_Vulkan, [0000067D14D67E00][0000067D14E45000 50] Android_Mali_G710, [0000067D14D6C5C0][0000067D14E47800 50] Android_Mali_G710_Vulkan, [0000067D14D69140][0000067D14E4A000 50] Android_Xclipse_920, [0000067D14D6C940][0000067D14E4C800 50] Android_Xclipse_920_Vulkan, [0000067D14D6BB40][0000067D14E32800 50] Android_Vulkan_SM5, [0000067D14D6BD00][0000067D14E50000 50] Android_PowerVR_G6xxx, [0000067D14D6D3C0][0000067D14E55000 50] Android_PowerVR_GT7xxx, [0000067D14D6B7C0][0000067D14E57800 50] Android_PowerVR_GE8xxx, [0000067D14D67FC0][0000067D14E5A000 50] Android_PowerVR_GM9xxx, [0000067D14D67C40][0000067D14E5C800 50] Android_PowerVR_GM9xxx_Vulkan, [0000067D14D6D580][0000067D14E42800 50] Android_TegraK1, [0000067D14D6C080][0000067D14E60000 50] Android_Unknown_Vulkan, [0000067D14D6D900][0000067D14E65000 50] Oculus_Quest, [0000067D14D6B280][0000067D14E67800 50] Oculus_Quest2, [0000067D14D6E380][0000067D14E6A000 50] HoloLens, 
+[2023.01.27-16.13.00:232][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.27-16.13.00:267][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.27-16.13.00:455][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.27-16.13.00:455][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.27-16.13.00:455][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.27-16.13.00:455][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.27-16.13.00:455][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.27-16.13.00:471][  0]LogNetVersion: FirstPersonHorror 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1397308638)
+[2023.01.27-16.13.00:595][  0]LogSlate: Border
+[2023.01.27-16.13.00:595][  0]LogSlate: BreadcrumbButton
+[2023.01.27-16.13.00:595][  0]LogSlate: Default
+[2023.01.27-16.13.00:595][  0]LogSlate: Icons.Save
+[2023.01.27-16.13.00:595][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.27-16.13.00:595][  0]LogSlate: ListView
+[2023.01.27-16.13.00:595][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.27-16.13.00:595][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.27-16.13.00:595][  0]LogSlate: TableView.DarkRow
+[2023.01.27-16.13.00:595][  0]LogSlate: TableView.Row
+[2023.01.27-16.13.00:595][  0]LogSlate: TreeView
+[2023.01.27-16.13.00:928][  0]SourceControl: Source control is disabled
+[2023.01.27-16.13.00:955][  0]SourceControl: Source control is disabled
+[2023.01.27-16.13.00:955][  0]SourceControl: Source control is disabled
+[2023.01.27-16.13.01:063][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.27-16.13.01:063][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.27-16.13.01:063][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.27-16.13.01:436][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C35C3D784AE78E718D2AE4B895E7906F | Instance: 078081A347C62EF1C05C09A946AB7F68 (UC207-STU7657L-12040).
+[2023.01.27-16.13.01:469][  0]LogPython: Using Python 3.9.7
+[2023.01.27-16.13.02:249][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.27-16.13.02:252][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.27-16.13.02:252][  0]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.02:253][  0]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.02:335][  0]SourceControl: Source control is disabled
+[2023.01.27-16.13.02:341][  0]SourceControl: Source control is disabled
+[2023.01.27-16.13.02:350][  0]SourceControl: Source control is disabled
+[2023.01.27-16.13.02:518][  0]LogUProjectInfo: Found projects:
+[2023.01.27-16.13.02:807][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.27-16.13.02:902][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.27-16.13.02:922][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.27-16.13.02:922][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.27-16.13.03:015][  0]LogCollectionManager: Loaded 0 collections in 0.002286 seconds
+[2023.01.27-16.13.03:092][  0]LogFileCache: Scanning file cache for directory 'I:/3D Horror/FirstPersonHorror/Saved/Collections/' took 0.00s
+[2023.01.27-16.13.03:092][  0]LogFileCache: Scanning file cache for directory 'I:/3D Horror/FirstPersonHorror/Content/Developers/30258818/Collections/' took 0.00s
+[2023.01.27-16.13.03:092][  0]LogFileCache: Scanning file cache for directory 'I:/3D Horror/FirstPersonHorror/Content/Collections/' took 0.00s
+[2023.01.27-16.13.03:433][  0]LogEngine: Initializing Engine...
+[2023.01.27-16.13.03:446][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.27-16.13.03:447][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.01.27-16.13.03:688][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.27-16.13.03:688][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.27-16.13.03:698][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.03:726][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.27-16.13.03:727][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.27-16.13.03:747][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.27-16.13.03:748][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.27-16.13.03:748][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.27-16.13.03:749][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.27-16.13.03:749][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.27-16.13.03:749][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.27-16.13.03:749][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.27-16.13.03:749][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.27-16.13.03:749][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.27-16.13.03:749][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.27-16.13.03:749][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.27-16.13.03:749][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.27-16.13.03:749][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.27-16.13.03:749][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.27-16.13.03:749][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.27-16.13.03:749][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.27-16.13.03:759][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.27-16.13.03:935][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2023.01.27-16.13.03:935][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.27-16.13.03:937][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.27-16.13.03:937][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.27-16.13.03:938][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.27-16.13.03:938][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.27-16.13.03:939][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.27-16.13.03:939][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.27-16.13.03:939][  0]LogInit: FAudioDevice initialized.
+[2023.01.27-16.13.03:939][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.27-16.13.03:939][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.27-16.13.03:939][  0]LogInit: Texture streaming: Enabled
+[2023.01.27-16.13.03:971][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.27-16.13.03:982][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.27-16.13.03:982][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={D61ABBFC-457A-9950-E05D-BBBE694372A8}
+[2023.01.27-16.13.04:009][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.27-16.13.04:019][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.27-16.13.04:020][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.27-16.13.05:479][  0]LogLiveCoding: Display: First instance in process group "UE_FirstPersonHorror_0xcebe9855", spawning console
+[2023.01.27-16.13.05:479][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.27-16.13.05:479][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.27-16.13.05:932][  0]LogInit: Transaction tracking system initialized
+[2023.01.27-16.13.06:012][  0]BlueprintLog: New page: Editor Load
+[2023.01.27-16.13.06:271][  0]LocalizationService: Localization service is disabled
+[2023.01.27-16.13.06:363][  0]TimingProfiler: Initialize
+[2023.01.27-16.13.06:364][  0]TimingProfiler: OnSessionChanged
+[2023.01.27-16.13.06:364][  0]LoadingProfiler: Initialize
+[2023.01.27-16.13.06:364][  0]LoadingProfiler: OnSessionChanged
+[2023.01.27-16.13.06:364][  0]NetworkingProfiler: Initialize
+[2023.01.27-16.13.06:364][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.27-16.13.06:364][  0]MemoryProfiler: Initialize
+[2023.01.27-16.13.06:364][  0]MemoryProfiler: OnSessionChanged
+[2023.01.27-16.13.07:121][  0]LogFileCache: Scanning file cache for directory 'I:/3D Horror/FirstPersonHorror/Content/' took 0.14s
+[2023.01.27-16.13.07:121][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.27-16.13.07:307][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.27-16.13.07:309][  0]SourceControl: Source control is disabled
+[2023.01.27-16.13.07:418][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.27-16.13.11:418][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2023.01.27-16.13.14:644][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2023.01.27-16.13.14:648][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/TestMain
+[2023.01.27-16.13.14:971][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.073
+[2023.01.27-16.13.14:971][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.27-16.13.14:971][  0]LightingResults: New page: Lighting Build
+[2023.01.27-16.13.14:981][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.13.14:981][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.13.14:981][  0]MapCheck: New page: Map Check
+[2023.01.27-16.13.14:981][  0]LightingResults: New page: Lighting Build
+[2023.01.27-16.13.14:988][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.27-16.13.14:990][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.01.27-16.13.15:045][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2023.01.27-16.13.15:053][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.15:054][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2023.01.27-16.13.15:055][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.27-16.13.15:055][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.01.27-16.13.15:330][  0]LogWorldPartition: Display: WorldPartition initialize took 273 ms
+[2023.01.27-16.13.15:526][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.27-16.13.15:535][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.27-16.13.15:535][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.27-16.13.15:550][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 14.507ms to complete.
+[2023.01.27-16.13.15:550][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.579
+[2023.01.27-16.13.15:566][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.669
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: ================================================
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.27-16.13.15:566][  0]LogShaderCompilers: Display: ================================================
+[2023.01.27-16.13.15:654][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.01.27-16.13.15:736][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.01.27-16.13.16:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.13.16:224][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.13.16:228][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.13.16:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.13.16:254][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:254][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:255][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:255][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:255][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:255][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:256][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:256][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:257][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:257][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:258][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:258][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:258][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:258][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:259][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:259][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:260][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:260][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:260][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.27-16.13.16:261][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.27-16.13.16:261][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.27-16.13.16:545][  0]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.27-16.13.16:546][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.27-16.13.16:547][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.27-16.13.16:575][  0]LogViewport: Scene viewport resized to 1526x598, mode Windowed.
+[2023.01.27-16.13.16:616][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.27-16.13.17:112][  0]LogStall: Startup...
+[2023.01.27-16.13.17:114][  0]LogStall: Startup complete.
+[2023.01.27-16.13.17:124][  0]LogLoad: (Engine Initialization) Total time: 27.23 seconds
+[2023.01.27-16.13.17:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.27-16.13.17:193][  0]LogAssetRegistry: Asset discovery search completed in 17.4756 seconds
+[2023.01.27-16.13.17:198][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.27-16.13.17:198][  0]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:198][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [00000000000007DC], Path [I:/3D Horror/FirstPersonHorror/Content/] 
+[2023.01.27-16.13.17:200][  0]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:200][  0]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [00000000000012FC], Path [I:/3D Horror/FirstPersonHorror/Content/] 
+[2023.01.27-16.13.17:201][  0]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:201][  0]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/Developers/30258818/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:201][  0]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:329][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.27-16.13.17:438][  2]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:438][  2]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [000000000000175C], Path [I:/3D Horror/FirstPersonHorror/Saved/Collections/] 
+[2023.01.27-16.13.17:439][  2]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/Developers/30258818/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:439][  2]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [0000000000001754], Path [I:/3D Horror/FirstPersonHorror/Content/Developers/30258818/Collections/] 
+[2023.01.27-16.13.17:440][  2]LogDirectoryWatcher: Display: A directory notification failed for 'I:/3D Horror/FirstPersonHorror/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2023.01.27-16.13.17:440][  2]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [87] Handle [000000000000174C], Path [I:/3D Horror/FirstPersonHorror/Content/Collections/] 
+[2023.01.27-16.13.21:830][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.27-16.13.21:930][197]LogLinker: Warning: [AssetLog] I:\3D Horror\FirstPersonHorror\Content\Maps\TestMain.umap: Failed to load '/Game/Blueprints/Lighting_Effects': Can't find file.
+[2023.01.27-16.13.21:930][197]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Blueprints/Lighting_Effects'
+[2023.01.27-16.13.22:018][197]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestMain.TestMain
+[2023.01.27-16.13.22:019][197]Cmd: MAP LOAD FILE="I:/3D Horror/FirstPersonHorror/Content/Maps/TestMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.27-16.13.22:019][197]LightingResults: New page: Lighting Build
+[2023.01.27-16.13.22:019][197]LoadErrors: New page: Loading map: TestMain.umap
+[2023.01.27-16.13.22:047][197]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.13.22:047][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.13.22:052][197]MapCheck: New page: Map Check
+[2023.01.27-16.13.22:052][197]LightingResults: New page: Lighting Build
+[2023.01.27-16.13.22:059][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.27-16.13.22:070][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.01.27-16.13.22:080][197]LogWorld: UWorld::CleanupWorld for TestMain, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.13.22:080][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.13.22:087][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.01.27-16.13.22:093][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.01.27-16.13.22:098][197]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMain'.
+[2023.01.27-16.13.22:098][197]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.27-16.13.22:098][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.22:099][197]LogAIModule: Creating AISystem for world TestMain
+[2023.01.27-16.13.22:148][197]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.27-16.13.22:156][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.01.27-16.13.22:270][197]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.27-16.13.22:271][197]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2023.01.27-16.13.22:271][197]LogFileHelpers: Loading map 'TestMain' took 0.252
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow1': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard1': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard2': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard3': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DirectionalLight': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExponentialHeightFog': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SkyAtmosphere': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SkyLight': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.22:318][197]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'VolumetricCloud': Lighting_Effects_C /Game/Maps/TestMain.TestMain:PersistentLevel.Lighting_Effects_C_1
+[2023.01.27-16.13.29:063][596]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.27-16.13.29:089][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.27-16.13.29:089][596]PIE: New page: PIE session: TestMain (27 Jan 2023, 16:13:29)
+[2023.01.27-16.13.29:091][596]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.01.27-16.13.29:091][596]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.01.27-16.13.29:091][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMain
+[2023.01.27-16.13.29:093][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002330s)
+[2023.01.27-16.13.29:093][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMain.TestMain to /Game/Maps/UEDPIE_0_TestMain.TestMain (0.002392s)
+[2023.01.27-16.13.29:094][596]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.27-16.13.29:094][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.29:094][596]LogAIModule: Creating AISystem for world TestMain
+[2023.01.27-16.13.29:094][596]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2023.01.27-16.13.29:100][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.27-16.13.29:101][596]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.01.27-16.13.29:101][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.27-16.13.29:101][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.27-16.13.29:101][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.27-16.13.29:101][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.27-16.13.29:101][596]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.27-16.13.29:101][596]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.27-16.13.29:101][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.27-16.13.29:101][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.27-16.13.29:101][596]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.27-16.13.29:101][596]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.27-16.13.29:101][596]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.27-16.13.29:103][596]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.27-16.13.29:123][596]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2023.01.27-16.13.29:123][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.27-16.13.29:123][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.27-16.13.29:123][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.27-16.13.29:124][596]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.01.27-16.13.29:124][596]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.01.27-16.13.29:125][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.01.27-16.13.29:125][596]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.01.27-16.13.29:125][596]LogInit: FAudioDevice initialized.
+[2023.01.27-16.13.29:125][596]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMain'.
+[2023.01.27-16.13.29:137][596]LogLoad: Game class is 'FirstPersonGM_C'
+[2023.01.27-16.13.29:137][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMain.TestMain up for play (max tick rate 60) at 2023.01.27-16.13.29
+[2023.01.27-16.13.29:138][596]LogWorld: Bringing up level for play took: 0.000912
+[2023.01.27-16.13.29:139][596]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2023.01.27-16.13.29:157][596]PIE: Server logged in
+[2023.01.27-16.13.29:157][596]PIE: Play in editor total start time 0.069 seconds.
+[2023.01.27-16.13.31:397][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.13.31:397][721]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMain
+[2023.01.27-16.13.31:398][721]LogWorld: UWorld::CleanupWorld for TestMain, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.13.31:398][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.13.31:424][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.27-16.13.31:429][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.13.31:444][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.13.31:444][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.27-16.13.31:446][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.01.27-16.13.31:450][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.01.27-16.13.31:495][722]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.01.27-16.13.39:757][204]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Props/Map_Meshes/Map_Wall.Map_Wall) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.27-16.13.39:759][204]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Map_Meshes/Map_Wall.Map_Wall
+[2023.01.27-16.13.39:835][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.39:870][204]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2023.01.27-16.13.40:136][204]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Player/Player_Character.Player_Character) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.27-16.13.40:138][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/Player_Character.Player_Character
+[2023.01.27-16.13.40:138][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.41:179][204]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Props/Map_Meshes/Map_Stairs.Map_Stairs) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.27-16.13.41:180][204]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Map_Meshes/Map_Stairs.Map_Stairs
+[2023.01.27-16.13.41:187][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.41:442][204]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Props/Map_Meshes/Map_Floor.Map_Floor) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.27-16.13.41:444][204]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Map_Meshes/Map_Floor.Map_Floor
+[2023.01.27-16.13.41:450][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.41:725][204]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Blueprints/BP_InteractableDoor.BP_InteractableDoor) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.01.27-16.13.41:727][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_InteractableDoor.BP_InteractableDoor
+[2023.01.27-16.13.41:727][204]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.13.42:267][204]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.27-16.13.42:310][204]LogViewport: Scene viewport resized to 911x540, mode Windowed.
+[2023.01.27-16.13.42:353][204]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.27-16.13.45:879][371]LogViewport: Scene viewport resized to 1405x892, mode Windowed.
+[2023.01.27-16.13.47:591][451]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.13.47:591][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.13.47:629][451]LogViewport: Scene viewport resized to 911x540, mode Windowed.
+[2023.01.27-16.13.49:822][579]LogSlate: Window 'Map_Floor' being destroyed
+[2023.01.27-16.13.49:826][579]LogSlate: Window 'Map_Floor' being destroyed
+[2023.01.27-16.13.49:998][579]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.13.49:998][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.13.50:203][579]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.13.50:203][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.14.00:427][162]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.27-16.14.01:357][162]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.01.27-16.14.01:362][162]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.01.27-16.14.01:367][162]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.01.27-16.14.01:379][163]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.01.27-16.14.23:600][496]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DefaultWorldLighting
+[2023.01.27-16.14.23:608][496]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.01.27-16.14.26:115][646]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting
+[2023.01.27-16.14.26:115][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.14.26:580][646]LogViewport: Scene viewport resized to 884x502, mode Windowed.
+[2023.01.27-16.14.28:863][772]LogViewport: Scene viewport resized to 878x487, mode Windowed.
+[2023.01.27-16.14.28:997][774]LogViewport: Scene viewport resized to 444x200, mode Windowed.
+[2023.01.27-16.14.29:036][775]LogViewport: Scene viewport resized to 559x284, mode Windowed.
+[2023.01.27-16.14.29:302][790]LogViewport: Scene viewport resized to 1365x858, mode Windowed.
+[2023.01.27-16.14.29:397][791]LogViewport: Scene viewport resized to 1363x880, mode Windowed.
+[2023.01.27-16.14.29:496][793]LogViewport: Scene viewport resized to 561x286, mode Windowed.
+[2023.01.27-16.14.29:532][794]LogViewport: Scene viewport resized to 559x284, mode Windowed.
+[2023.01.27-16.14.29:806][810]LogViewport: Scene viewport resized to 1365x858, mode Windowed.
+[2023.01.27-16.14.30:272][837]LogSlate: Window 'BP_DefaultWorldLighting' being destroyed
+[2023.01.27-16.14.59:392][559]LogDerivedDataCache: C:/Users/30258818/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.980 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.27-16.15.40:292][966]LogViewport: Scene viewport resized to 1356x858, mode Windowed.
+[2023.01.27-16.15.40:334][968]LogViewport: Scene viewport resized to 1327x858, mode Windowed.
+[2023.01.27-16.15.40:376][970]LogViewport: Scene viewport resized to 1310x858, mode Windowed.
+[2023.01.27-16.15.40:524][978]LogViewport: Scene viewport resized to 1306x858, mode Windowed.
+[2023.01.27-16.15.40:598][980]LogViewport: Scene viewport resized to 1301x858, mode Windowed.
+[2023.01.27-16.15.40:639][982]LogViewport: Scene viewport resized to 1280x858, mode Windowed.
+[2023.01.27-16.15.40:680][984]LogViewport: Scene viewport resized to 1268x858, mode Windowed.
+[2023.01.27-16.15.50:029][530]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.27-16.15.53:725][750]BlueprintLog: New page: Compile BP_DefaultWorldLighting
+[2023.01.27-16.15.53:791][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.01.27-16.16.14:808][985]BlueprintLog: New page: Compile BP_DefaultWorldLighting
+[2023.01.27-16.16.14:856][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.01.27-16.16.20:670][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.16.20:670][309]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.16.20:671][309]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_0
+[2023.01.27-16.16.20:672][309]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_0
+[2023.01.27-16.16.21:528][360]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.16.21:528][360]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.16.21:529][360]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_1
+[2023.01.27-16.16.21:530][360]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_1
+[2023.01.27-16.16.41:154][520]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.27-16.16.42:694][606]BlueprintLog: New page: Compile BP_DefaultWorldLighting
+[2023.01.27-16.16.42:752][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.27-16.17.06:457][  3]LogViewport: Scene viewport resized to 1325x598, mode Windowed.
+[2023.01.27-16.17.11:393][295]Cmd: DELETE
+[2023.01.27-16.17.11:393][295]Cmd: ACTOR DELETE
+[2023.01.27-16.17.11:398][295]LogEditorActor: Deleted Actor: BP_DefaultWorldLighting_C
+[2023.01.27-16.17.11:433][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.27-16.17.11:435][295]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2023.01.27-16.17.15:818][553]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.01.27-16.17.15:818][553]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.01.27-16.17.15:818][553]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMain.TestMain:PersistentLevel.DirectionalLight_0
+[2023.01.27-16.17.15:818][553]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMain.TestMain:PersistentLevel.DirectionalLight_0
+[2023.01.27-16.17.16:338][584]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.01.27-16.17.16:338][584]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2023.01.27-16.17.16:338][584]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMain.TestMain:PersistentLevel.DirectionalLight_1
+[2023.01.27-16.17.16:339][584]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMain.TestMain:PersistentLevel.DirectionalLight_1
+[2023.01.27-16.17.28:939][326]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.01.27-16.17.28:939][326]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.01.27-16.17.28:939][326]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/TestMain.TestMain:PersistentLevel.SkyLight_0
+[2023.01.27-16.17.28:939][326]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/TestMain.TestMain:PersistentLevel.SkyLight_0
+[2023.01.27-16.17.29:541][359]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.01.27-16.17.29:541][359]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2023.01.27-16.17.29:542][359]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/TestMain.TestMain:PersistentLevel.SkyLight_1
+[2023.01.27-16.17.29:542][359]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/TestMain.TestMain:PersistentLevel.SkyLight_1
+[2023.01.27-16.17.42:288][ 95]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.01.27-16.17.42:288][ 95]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.01.27-16.17.42:288][ 95]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/TestMain.TestMain:PersistentLevel.SkyAtmosphere_0
+[2023.01.27-16.17.42:288][ 95]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/TestMain.TestMain:PersistentLevel.SkyAtmosphere_0
+[2023.01.27-16.17.43:646][176]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.01.27-16.17.43:646][176]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2023.01.27-16.17.43:647][176]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/TestMain.TestMain:PersistentLevel.SkyAtmosphere_1
+[2023.01.27-16.17.43:647][176]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/TestMain.TestMain:PersistentLevel.SkyAtmosphere_1
+[2023.01.27-16.17.52:304][678]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.01.27-16.17.52:304][678]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.01.27-16.17.52:304][678]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/TestMain.TestMain:PersistentLevel.ExponentialHeightFog_0
+[2023.01.27-16.17.52:304][678]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/TestMain.TestMain:PersistentLevel.ExponentialHeightFog_0
+[2023.01.27-16.17.53:204][731]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.01.27-16.17.53:204][731]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2023.01.27-16.17.53:204][731]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/TestMain.TestMain:PersistentLevel.ExponentialHeightFog_1
+[2023.01.27-16.17.53:204][731]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/Maps/TestMain.TestMain:PersistentLevel.ExponentialHeightFog_1
+[2023.01.27-16.18.14:412][956]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.27-16.18.21:896][401]Cmd: TRANSACTION UNDO
+[2023.01.27-16.18.21:896][401]LogEditorTransaction: Undo Edit Light Color
+[2023.01.27-16.18.37:187][264]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.27-16.18.49:274][977]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.01.27-16.18.49:274][977]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.01.27-16.18.49:274][977]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/TestMain.TestMain:PersistentLevel.VolumetricCloud_0
+[2023.01.27-16.18.49:274][977]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/TestMain.TestMain:PersistentLevel.VolumetricCloud_0
+[2023.01.27-16.18.49:879][ 13]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.01.27-16.18.49:879][ 13]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2023.01.27-16.18.49:880][ 13]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/TestMain.TestMain:PersistentLevel.VolumetricCloud_1
+[2023.01.27-16.18.49:880][ 13]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/TestMain.TestMain:PersistentLevel.VolumetricCloud_1
+[2023.01.27-16.19.01:442][687]Cmd: EDIT CUT
+[2023.01.27-16.19.01:447][687]LogEditorActor: Deleted Actor: VolumetricCloud
+[2023.01.27-16.19.01:447][687]LogEditorActor: Deleted Actor: SkyLight
+[2023.01.27-16.19.01:448][687]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2023.01.27-16.19.01:448][687]LogEditorActor: Deleted Actor: ExponentialHeightFog
+[2023.01.27-16.19.01:448][687]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.01.27-16.19.01:487][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.01.27-16.19.01:489][687]LogEditorActor: Deleted 5 Actors (0.045 secs)
+[2023.01.27-16.19.31:641][466]BlueprintLog: New page: Compile BP_DefaultWorldLighting
+[2023.01.27-16.19.31:695][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.27-16.19.34:237][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.19.34:237][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.19.34:240][602]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_2
+[2023.01.27-16.19.34:242][602]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_2
+[2023.01.27-16.19.34:616][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.19.34:616][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting_C
+[2023.01.27-16.19.34:619][608]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_3
+[2023.01.27-16.19.34:621][608]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting as actor: BP_DefaultWorldLighting_C /Game/Maps/TestMain.TestMain:PersistentLevel.BP_DefaultWorldLighting_C_3
+[2023.01.27-16.19.57:566][959]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.27-16.19.59:816][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DefaultWorldLighting" FILE="I:/3D Horror/FirstPersonHorror/Content/Blueprints/BP_DefaultWorldLighting.uasset" SILENT=true
+[2023.01.27-16.19.59:824][ 86]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007738 seconds
+[2023.01.27-16.20.00:117][ 86]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DefaultWorldLighting
+[2023.01.27-16.20.00:118][ 86]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/BP_DefaultWorldLightingE7B291D442F8FB26AA2D33812F115C00.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Blueprints/BP_DefaultWorldLighting.uasset'
+[2023.01.27-16.20.00:135][ 86]AssetCheck: New page: Asset Save: BP_DefaultWorldLighting
+[2023.01.27-16.20.00:135][ 86]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting
+[2023.01.27-16.20.00:245][ 92]BlueprintLog: New page: Compile BP_DefaultWorldLighting
+[2023.01.27-16.20.00:314][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.01.27-16.20.13:987][895]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.27-16.20.21:754][357]LogEditorTransaction: Undo Remove Components
+[2023.01.27-16.20.27:663][682]LogEditorTransaction: Undo Remove Components
+[2023.01.27-16.20.38:762][317]BlueprintLog: New page: Compile BP_DefaultWorldLighting
+[2023.01.27-16.20.38:835][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.27-16.20.39:234][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DefaultWorldLighting" FILE="I:/3D Horror/FirstPersonHorror/Content/Blueprints/BP_DefaultWorldLighting.uasset" SILENT=true
+[2023.01.27-16.20.39:500][337]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DefaultWorldLighting
+[2023.01.27-16.20.39:509][337]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/BP_DefaultWorldLighting33EE654A4CE92A94D5BB1FAFD64866B1.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Blueprints/BP_DefaultWorldLighting.uasset'
+[2023.01.27-16.20.39:533][337]AssetCheck: New page: Asset Save: BP_DefaultWorldLighting
+[2023.01.27-16.20.39:533][337]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting
+[2023.01.27-16.20.43:995][604]Cmd: TRANSACTION UNDO
+[2023.01.27-16.20.43:996][604]LogEditorTransaction: Undo Remove Components
+[2023.01.27-16.20.45:380][660]LogEditorViewport: Clicking Background
+[2023.01.27-16.20.51:879][ 47]LogViewport: Scene viewport resized to 1526x598, mode Windowed.
+[2023.01.27-16.21.24:303][947]BlueprintLog: New page: Compile BP_DefaultWorldLighting
+[2023.01.27-16.21.24:464][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.01.27-16.21.24:752][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_DefaultWorldLighting" FILE="I:/3D Horror/FirstPersonHorror/Content/Blueprints/BP_DefaultWorldLighting.uasset" SILENT=true
+[2023.01.27-16.21.25:083][959]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_DefaultWorldLighting
+[2023.01.27-16.21.25:092][959]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/BP_DefaultWorldLighting96C1C1AD400E3C6ED9797F888CD43250.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Blueprints/BP_DefaultWorldLighting.uasset'
+[2023.01.27-16.21.25:120][959]AssetCheck: New page: Asset Save: BP_DefaultWorldLighting
+[2023.01.27-16.21.25:120][959]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DefaultWorldLighting.BP_DefaultWorldLighting
+[2023.01.27-16.21.30:101][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.27-16.21.30:135][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.27-16.21.30:135][252]PIE: New page: PIE session: TestMain (27 Jan 2023, 16:21:30)
+[2023.01.27-16.21.30:135][252]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMain
+[2023.01.27-16.21.30:138][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002869s)
+[2023.01.27-16.21.30:138][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMain.TestMain to /Game/Maps/UEDPIE_0_TestMain.TestMain (0.002924s)
+[2023.01.27-16.21.30:138][252]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.27-16.21.30:138][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.21.30:139][252]LogAIModule: Creating AISystem for world TestMain
+[2023.01.27-16.21.30:139][252]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2023.01.27-16.21.30:174][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.01.27-16.21.30:175][252]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.01.27-16.21.30:175][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.27-16.21.30:175][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.27-16.21.30:175][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.27-16.21.30:175][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.27-16.21.30:176][252]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.27-16.21.30:176][252]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.27-16.21.30:176][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.27-16.21.30:176][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.27-16.21.30:176][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.27-16.21.30:176][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.27-16.21.30:176][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.27-16.21.30:178][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.27-16.21.30:199][252]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2023.01.27-16.21.30:199][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.27-16.21.30:199][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.27-16.21.30:199][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.27-16.21.30:200][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.01.27-16.21.30:200][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.01.27-16.21.30:201][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.01.27-16.21.30:201][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.01.27-16.21.30:201][252]LogInit: FAudioDevice initialized.
+[2023.01.27-16.21.30:201][252]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMain'.
+[2023.01.27-16.21.30:216][252]LogLoad: Game class is 'FirstPersonGM_C'
+[2023.01.27-16.21.30:216][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMain.TestMain up for play (max tick rate 60) at 2023.01.27-16.21.30
+[2023.01.27-16.21.30:217][252]LogWorld: Bringing up level for play took: 0.000873
+[2023.01.27-16.21.30:218][252]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.01.27-16.21.30:219][252]PIE: Server logged in
+[2023.01.27-16.21.30:220][252]PIE: Play in editor total start time 0.088 seconds.
+[2023.01.27-16.21.32:181][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.21.32:181][364]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMain
+[2023.01.27-16.21.32:181][364]LogWorld: UWorld::CleanupWorld for TestMain, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.21.32:182][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.21.32:190][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.27-16.21.32:193][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.21.32:228][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.27-16.21.32:228][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.27-16.21.32:229][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.01.27-16.21.32:234][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.21.32:236][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.01.27-16.21.32:288][365]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.01.27-16.22.43:047][587]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.01.27-16.22.43:075][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.27-16.22.43:075][587]PIE: New page: PIE session: TestMain (27 Jan 2023, 16:22:43)
+[2023.01.27-16.22.43:075][587]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMain
+[2023.01.27-16.22.43:078][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002725s)
+[2023.01.27-16.22.43:078][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMain.TestMain to /Game/Maps/UEDPIE_0_TestMain.TestMain (0.002782s)
+[2023.01.27-16.22.43:078][587]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.27-16.22.43:078][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.27-16.22.43:078][587]LogAIModule: Creating AISystem for world TestMain
+[2023.01.27-16.22.43:079][587]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2023.01.27-16.22.43:114][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.01.27-16.22.43:115][587]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.01.27-16.22.43:115][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.27-16.22.43:115][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.27-16.22.43:115][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.27-16.22.43:115][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.27-16.22.43:115][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.27-16.22.43:115][587]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.27-16.22.43:115][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.27-16.22.43:115][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.27-16.22.43:116][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.27-16.22.43:116][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.27-16.22.43:116][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.27-16.22.43:117][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.27-16.22.43:137][587]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio Codec with THX Spatial Audio)
+[2023.01.27-16.22.43:138][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.27-16.22.43:138][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.27-16.22.43:138][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.27-16.22.43:139][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.01.27-16.22.43:139][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.01.27-16.22.43:140][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.01.27-16.22.43:140][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.01.27-16.22.43:140][587]LogInit: FAudioDevice initialized.
+[2023.01.27-16.22.43:140][587]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMain'.
+[2023.01.27-16.22.43:150][587]LogLoad: Game class is 'FirstPersonGM_C'
+[2023.01.27-16.22.43:151][587]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMain.TestMain up for play (max tick rate 60) at 2023.01.27-16.22.43
+[2023.01.27-16.22.43:151][587]LogWorld: Bringing up level for play took: 0.000793
+[2023.01.27-16.22.43:152][587]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.01.27-16.22.43:153][587]PIE: Server logged in
+[2023.01.27-16.22.43:154][587]PIE: Play in editor total start time 0.079 seconds.
+[2023.01.27-16.22.47:128][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.22.47:128][820]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMain
+[2023.01.27-16.22.47:128][820]LogWorld: UWorld::CleanupWorld for TestMain, bSessionEnded=true, bCleanupResources=true
+[2023.01.27-16.22.47:128][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.22.47:140][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.27-16.22.47:143][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.27-16.22.47:176][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.27-16.22.47:177][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.27-16.22.47:178][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.01.27-16.22.47:182][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.01.27-16.22.47:223][821]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.01.27-16.22.48:679][904]LogViewport: Scene viewport resized to 1014x376, mode Windowed.
+[2023.01.27-16.22.50:947][ 36]LogViewport: Scene viewport resized to 1526x598, mode Windowed.
+[2023.01.27-16.23.08:004][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMain" FILE="I:/3D Horror/FirstPersonHorror/Content/Maps/TestMain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.01.27-16.23.08:039][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.01.27-16.23.08:478][ 25]LogSavePackage: Moving output files for package: /Game/Maps/TestMain
+[2023.01.27-16.23.08:487][ 25]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/TestMain006BC2104B6049E68ECE10BF89E82549.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Maps/TestMain.umap'
+[2023.01.27-16.23.08:572][ 25]AssetCheck: New page: Asset Save: TestMain
+[2023.01.27-16.23.08:572][ 25]LogContentValidation: Display: Validating World /Game/Maps/TestMain.TestMain
+[2023.01.27-16.23.28:760][964]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\3D Horror\3D Models\AllProps.fbx)
+[2023.01.27-16.23.28:812][964]LogFbx: Loading FBX Scene from I:\3D Horror\3D Models\AllProps.fbx
+[2023.01.27-16.23.28:832][964]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.27-16.23.30:210][964]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.27-16.23.30:248][964]LogLinker: Warning: [AssetLog] I:\3D Horror\FirstPersonHorror\Content\Props\AllProps_Door.uasset: Failed to load '/Game/Props/Material': Can't find file.
+[2023.01.27-16.23.30:248][964]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Props/Material'
+[2023.01.27-16.23.30:258][964]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: 49667302ADEB37559E776D875044928F5112BF69), compiling. 
+[2023.01.27-16.23.30:261][964]LogFbx: Display: Triangulating static mesh Door
+[2023.01.27-16.23.30:267][964]LogStaticMesh: Display: Building static mesh AllProps_Door...
+[2023.01.27-16.23.30:270][964]LogStaticMesh: Built static mesh [0.00s] /Game/Props/AllProps_Door.AllProps_Door
+[2023.01.27-16.23.30:271][964]LogStaticMesh: Warning: AllProps_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.30:271][964]LogStaticMesh: Warning: AllProps_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.30:321][964]LogLinker: Warning: [AssetLog] I:\3D Horror\FirstPersonHorror\Content\Props\AllProps_Fancy_Desk.uasset: Failed to load '/Game/Props/Material_002': Can't find file.
+[2023.01.27-16.23.30:321][964]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Props/Material_002'
+[2023.01.27-16.23.30:341][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Fancy_Desk) ...
+[2023.01.27-16.23.30:361][964]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: EC38760A10DEC0CC493645C51499A8AECEC64127), compiling. 
+[2023.01.27-16.23.30:363][964]LogFbx: Display: Triangulating static mesh Fancy Desk
+[2023.01.27-16.23.30:392][964]LogStaticMesh: Display: Building static mesh AllProps_Fancy_Desk...
+[2023.01.27-16.23.30:411][964]LogStaticMesh: Built static mesh [0.02s] /Game/Props/AllProps_Fancy_Desk.AllProps_Fancy_Desk
+[2023.01.27-16.23.30:416][964]LogStaticMesh: Warning: AllProps_Fancy_Desk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.30:416][964]LogStaticMesh: Warning: AllProps_Fancy_Desk has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.30:416][964]LogStaticMesh: Warning: AllProps_Fancy_Desk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.30:450][964]LogLinker: Warning: [AssetLog] I:\3D Horror\FirstPersonHorror\Content\Props\AllProps_Server_Desk.uasset: Failed to load '/Game/Props/Material_003': Can't find file.
+[2023.01.27-16.23.30:451][964]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Props/Material_003'
+[2023.01.27-16.23.30:470][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Server_Desk) ...
+[2023.01.27-16.23.30:990][964]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: AA403CD0D7D102F7A52BA6360440FA12A0D73A53), compiling. 
+[2023.01.27-16.23.30:992][964]LogFbx: Display: Triangulating static mesh Server Desk
+[2023.01.27-16.23.31:001][964]LogStaticMesh: Display: Building static mesh AllProps_Server_Desk...
+[2023.01.27-16.23.31:010][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Server_Desk.AllProps_Server_Desk
+[2023.01.27-16.23.31:011][964]LogStaticMesh: Warning: AllProps_Server_Desk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.31:011][964]LogStaticMesh: Warning: AllProps_Server_Desk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.31:031][964]LogLinker: Warning: [AssetLog] I:\3D Horror\FirstPersonHorror\Content\Props\AllProps_Normal_Desk.uasset: Failed to load '/Game/Props/Material_004': Can't find file.
+[2023.01.27-16.23.31:031][964]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Props/Material_004'
+[2023.01.27-16.23.31:050][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Normal_Desk) ...
+[2023.01.27-16.23.31:465][964]LogMaterial: Display: Missing cached shadermap for Material_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 837F7FB623E6CDBBADEB86B8A335C67554FC4423), compiling. 
+[2023.01.27-16.23.31:467][964]LogFbx: Display: Triangulating static mesh Normal Desk
+[2023.01.27-16.23.31:476][964]LogStaticMesh: Display: Building static mesh AllProps_Normal_Desk...
+[2023.01.27-16.23.31:483][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Normal_Desk.AllProps_Normal_Desk
+[2023.01.27-16.23.31:484][964]LogStaticMesh: Warning: AllProps_Normal_Desk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.31:484][964]LogStaticMesh: Warning: AllProps_Normal_Desk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.31:504][964]LogLinker: Warning: [AssetLog] I:\3D Horror\FirstPersonHorror\Content\Props\AllProps_Shelf_Corner.uasset: Failed to load '/Game/Props/Material_006': Can't find file.
+[2023.01.27-16.23.31:504][964]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Props/Material_006'
+[2023.01.27-16.23.31:524][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Shelf_Corner) ...
+[2023.01.27-16.23.32:076][964]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: 4EDA03456965D8A27AABF321BCB5AA80C66C5E72), compiling. 
+[2023.01.27-16.23.32:078][964]LogFbx: Display: Triangulating static mesh Shelf Corner
+[2023.01.27-16.23.32:081][964]LogStaticMesh: Display: Building static mesh AllProps_Shelf_Corner...
+[2023.01.27-16.23.32:087][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Shelf_Corner.AllProps_Shelf_Corner
+[2023.01.27-16.23.32:088][964]LogStaticMesh: Warning: AllProps_Shelf_Corner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.32:088][964]LogStaticMesh: Warning: AllProps_Shelf_Corner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.32:124][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Pool_Table) ...
+[2023.01.27-16.23.32:399][964]LogFbx: Display: Triangulating static mesh Pool Table
+[2023.01.27-16.23.32:411][964]LogStaticMesh: Display: Building static mesh AllProps_Pool_Table...
+[2023.01.27-16.23.32:427][964]LogStaticMesh: Built static mesh [0.02s] /Game/Props/AllProps_Pool_Table.AllProps_Pool_Table
+[2023.01.27-16.23.32:432][964]LogStaticMesh: Warning: AllProps_Pool_Table has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.32:432][964]LogStaticMesh: Warning: AllProps_Pool_Table has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.32:471][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Office_Chair) ...
+[2023.01.27-16.23.32:776][964]LogFbx: Display: Triangulating static mesh Office Chair
+[2023.01.27-16.23.32:797][964]LogStaticMesh: Display: Building static mesh AllProps_Office_Chair...
+[2023.01.27-16.23.32:815][964]LogStaticMesh: Built static mesh [0.02s] /Game/Props/AllProps_Office_Chair.AllProps_Office_Chair
+[2023.01.27-16.23.32:857][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Photocopier) ...
+[2023.01.27-16.23.32:917][964]LogFbx: Display: Triangulating static mesh Photocopier
+[2023.01.27-16.23.32:924][964]LogStaticMesh: Display: Building static mesh AllProps_Photocopier...
+[2023.01.27-16.23.32:929][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Photocopier.AllProps_Photocopier
+[2023.01.27-16.23.32:930][964]LogStaticMesh: Warning: AllProps_Photocopier has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.32:930][964]LogStaticMesh: Warning: AllProps_Photocopier has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.32:986][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Ceiling_Light) ...
+[2023.01.27-16.23.33:228][964]LogFbx: Display: Triangulating static mesh Ceiling Light
+[2023.01.27-16.23.33:231][964]LogStaticMesh: Display: Building static mesh AllProps_Ceiling_Light...
+[2023.01.27-16.23.33:236][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Ceiling_Light.AllProps_Ceiling_Light
+[2023.01.27-16.23.33:236][964]LogStaticMesh: Warning: AllProps_Ceiling_Light has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.33:236][964]LogStaticMesh: Warning: AllProps_Ceiling_Light has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.33:279][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Sofa) ...
+[2023.01.27-16.23.33:283][964]LogFbx: Display: Triangulating static mesh Sofa
+[2023.01.27-16.23.33:290][964]LogStaticMesh: Display: Building static mesh AllProps_Sofa...
+[2023.01.27-16.23.33:296][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Sofa.AllProps_Sofa
+[2023.01.27-16.23.33:333][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Armchair) ...
+[2023.01.27-16.23.33:533][964]LogFbx: Display: Triangulating static mesh Armchair
+[2023.01.27-16.23.33:538][964]LogStaticMesh: Display: Building static mesh AllProps_Armchair...
+[2023.01.27-16.23.33:545][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Armchair.AllProps_Armchair
+[2023.01.27-16.23.33:579][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Fridge) ...
+[2023.01.27-16.23.33:678][964]LogFbx: Display: Triangulating static mesh Fridge
+[2023.01.27-16.23.33:682][964]LogStaticMesh: Display: Building static mesh AllProps_Fridge...
+[2023.01.27-16.23.33:687][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Fridge.AllProps_Fridge
+[2023.01.27-16.23.33:688][964]LogStaticMesh: Warning: AllProps_Fridge has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.33:688][964]LogStaticMesh: Warning: AllProps_Fridge has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.33:721][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Coffee_Table) ...
+[2023.01.27-16.23.34:102][964]LogFbx: Display: Triangulating static mesh Coffee Table
+[2023.01.27-16.23.34:106][964]LogStaticMesh: Display: Building static mesh AllProps_Coffee_Table...
+[2023.01.27-16.23.34:109][964]LogStaticMesh: Built static mesh [0.00s] /Game/Props/AllProps_Coffee_Table.AllProps_Coffee_Table
+[2023.01.27-16.23.34:109][964]LogStaticMesh: Warning: AllProps_Coffee_Table has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.34:110][964]LogStaticMesh: Warning: AllProps_Coffee_Table has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.34:155][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_TV) ...
+[2023.01.27-16.23.34:305][964]LogFbx: Display: Triangulating static mesh TV
+[2023.01.27-16.23.34:307][964]LogStaticMesh: Display: Building static mesh AllProps_TV...
+[2023.01.27-16.23.34:310][964]LogStaticMesh: Built static mesh [0.00s] /Game/Props/AllProps_TV.AllProps_TV
+[2023.01.27-16.23.34:310][964]LogStaticMesh: Warning: AllProps_TV has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.34:310][964]LogStaticMesh: Warning: AllProps_TV has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.34:344][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Meeting_Table) ...
+[2023.01.27-16.23.34:392][964]LogFbx: Display: Triangulating static mesh Meeting Table
+[2023.01.27-16.23.34:400][964]LogStaticMesh: Display: Building static mesh AllProps_Meeting_Table...
+[2023.01.27-16.23.34:407][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Meeting_Table.AllProps_Meeting_Table
+[2023.01.27-16.23.34:408][964]LogStaticMesh: Warning: AllProps_Meeting_Table has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.34:408][964]LogStaticMesh: Warning: AllProps_Meeting_Table has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.34:457][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Filing_Cabinet) ...
+[2023.01.27-16.23.34:817][964]LogFbx: Display: Triangulating static mesh Filing Cabinet
+[2023.01.27-16.23.34:823][964]LogStaticMesh: Display: Building static mesh AllProps_Filing_Cabinet...
+[2023.01.27-16.23.34:827][964]LogStaticMesh: Built static mesh [0.00s] /Game/Props/AllProps_Filing_Cabinet.AllProps_Filing_Cabinet
+[2023.01.27-16.23.34:828][964]LogStaticMesh: Warning: AllProps_Filing_Cabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.34:828][964]LogStaticMesh: Warning: AllProps_Filing_Cabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.34:864][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Server_Cabinet) ...
+[2023.01.27-16.23.35:117][964]LogFbx: Display: Triangulating static mesh Server Cabinet
+[2023.01.27-16.23.35:127][964]LogStaticMesh: Display: Building static mesh AllProps_Server_Cabinet...
+[2023.01.27-16.23.35:138][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Server_Cabinet.AllProps_Server_Cabinet
+[2023.01.27-16.23.35:138][964]LogStaticMesh: Warning: AllProps_Server_Cabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.35:138][964]LogStaticMesh: Warning: AllProps_Server_Cabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.35:171][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Countertop) ...
+[2023.01.27-16.23.36:566][964]LogMeshUtilities: Finished distance field build in 1.4s - 63x63x98 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 100% occupied, 199 triangles, AllProps_Server_Cabinet
+[2023.01.27-16.23.36:566][964]LogFbx: Display: Triangulating static mesh Countertop
+[2023.01.27-16.23.36:568][964]LogStaticMesh: Display: Building static mesh AllProps_Countertop...
+[2023.01.27-16.23.36:577][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Countertop.AllProps_Countertop
+[2023.01.27-16.23.36:578][964]LogStaticMesh: Warning: AllProps_Countertop has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.36:578][964]LogStaticMesh: Warning: AllProps_Countertop has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.36:628][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Countertop_Corner) ...
+[2023.01.27-16.23.36:728][964]LogFbx: Display: Triangulating static mesh Countertop Corner
+[2023.01.27-16.23.36:730][964]LogStaticMesh: Display: Building static mesh AllProps_Countertop_Corner...
+[2023.01.27-16.23.36:735][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Countertop_Corner.AllProps_Countertop_Corner
+[2023.01.27-16.23.36:736][964]LogStaticMesh: Warning: AllProps_Countertop_Corner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.36:736][964]LogStaticMesh: Warning: AllProps_Countertop_Corner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.36:771][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Countertop_Sink) ...
+[2023.01.27-16.23.36:889][964]LogFbx: Display: Triangulating static mesh Countertop Sink
+[2023.01.27-16.23.36:897][964]LogStaticMesh: Display: Building static mesh AllProps_Countertop_Sink...
+[2023.01.27-16.23.36:905][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Countertop_Sink.AllProps_Countertop_Sink
+[2023.01.27-16.23.36:906][964]LogStaticMesh: Warning: AllProps_Countertop_Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.36:906][964]LogStaticMesh: Warning: AllProps_Countertop_Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.36:941][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Toaster) ...
+[2023.01.27-16.23.37:105][964]LogFbx: Display: Triangulating static mesh Toaster
+[2023.01.27-16.23.37:107][964]LogStaticMesh: Display: Building static mesh AllProps_Toaster...
+[2023.01.27-16.23.37:112][964]LogStaticMesh: Built static mesh [0.00s] /Game/Props/AllProps_Toaster.AllProps_Toaster
+[2023.01.27-16.23.37:145][964]LogFbx: Display: Triangulating static mesh Microwave
+[2023.01.27-16.23.37:154][964]LogStaticMesh: Display: Building static mesh AllProps_Microwave...
+[2023.01.27-16.23.37:164][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Microwave.AllProps_Microwave
+[2023.01.27-16.23.37:166][964]LogStaticMesh: Warning: AllProps_Microwave has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.37:167][964]LogStaticMesh: Warning: AllProps_Microwave has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.37:206][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Water_Cooler) ...
+[2023.01.27-16.23.37:211][964]LogFbx: Display: Triangulating static mesh Water Cooler
+[2023.01.27-16.23.37:222][964]LogStaticMesh: Display: Building static mesh AllProps_Water_Cooler...
+[2023.01.27-16.23.37:232][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Water_Cooler.AllProps_Water_Cooler
+[2023.01.27-16.23.37:293][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Plant_Pot) ...
+[2023.01.27-16.23.37:343][964]LogFbx: Display: Triangulating static mesh Plant Pot
+[2023.01.27-16.23.37:346][964]LogStaticMesh: Display: Building static mesh AllProps_Plant_Pot...
+[2023.01.27-16.23.37:350][964]LogStaticMesh: Built static mesh [0.00s] /Game/Props/AllProps_Plant_Pot.AllProps_Plant_Pot
+[2023.01.27-16.23.37:370][964]LogFbx: Display: Triangulating static mesh Cabinet
+[2023.01.27-16.23.37:372][964]LogStaticMesh: Display: Building static mesh AllProps_Cabinet...
+[2023.01.27-16.23.37:374][964]LogStaticMesh: Built static mesh [0.00s] /Game/Props/AllProps_Cabinet.AllProps_Cabinet
+[2023.01.27-16.23.37:374][964]LogStaticMesh: Warning: AllProps_Cabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.37:374][964]LogStaticMesh: Warning: AllProps_Cabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.37:418][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Cabinet_Drawers) ...
+[2023.01.27-16.23.37:580][964]LogFbx: Display: Triangulating static mesh Cabinet Drawers
+[2023.01.27-16.23.37:585][964]LogStaticMesh: Display: Building static mesh AllProps_Cabinet_Drawers...
+[2023.01.27-16.23.37:591][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Cabinet_Drawers.AllProps_Cabinet_Drawers
+[2023.01.27-16.23.37:592][964]LogStaticMesh: Warning: AllProps_Cabinet_Drawers has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.37:592][964]LogStaticMesh: Warning: AllProps_Cabinet_Drawers has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.37:631][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Mug) ...
+[2023.01.27-16.23.37:777][964]LogFbx: Display: Triangulating static mesh Mug
+[2023.01.27-16.23.37:786][964]LogStaticMesh: Display: Building static mesh AllProps_Mug...
+[2023.01.27-16.23.37:793][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Mug.AllProps_Mug
+[2023.01.27-16.23.37:795][964]LogStaticMesh: Warning: AllProps_Mug has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.37:795][964]LogStaticMesh: Warning: AllProps_Mug has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.37:810][964]LogFbx: Display: Triangulating static mesh Clock
+[2023.01.27-16.23.37:813][964]LogStaticMesh: Display: Building static mesh AllProps_Clock...
+[2023.01.27-16.23.37:818][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Clock.AllProps_Clock
+[2023.01.27-16.23.37:849][964]LogFbx: Display: Triangulating static mesh Photo Frame
+[2023.01.27-16.23.37:862][964]LogStaticMesh: Display: Building static mesh AllProps_Photo_Frame...
+[2023.01.27-16.23.37:870][964]LogStaticMesh: Built static mesh [0.01s] /Game/Props/AllProps_Photo_Frame.AllProps_Photo_Frame
+[2023.01.27-16.23.37:872][964]LogStaticMesh: Warning: AllProps_Photo_Frame has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.37:872][964]LogStaticMesh: Warning: AllProps_Photo_Frame has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.37:923][964]LogFbx: Display: Triangulating static mesh Book Shelf
+[2023.01.27-16.23.38:119][964]LogStaticMesh: Display: Building static mesh AllProps_Book_Shelf...
+[2023.01.27-16.23.38:304][964]LogStaticMesh: Built static mesh [0.19s] /Game/Props/AllProps_Book_Shelf.AllProps_Book_Shelf
+[2023.01.27-16.23.38:337][964]LogStaticMesh: Warning: AllProps_Book_Shelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.01.27-16.23.38:337][964]LogStaticMesh: Warning: AllProps_Book_Shelf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.01.27-16.23.38:399][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Fancy_Desk) ...
+[2023.01.27-16.23.38:979][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Server_Desk) ...
+[2023.01.27-16.23.39:536][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Normal_Desk) ...
+[2023.01.27-16.23.39:978][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Shelf_Corner) ...
+[2023.01.27-16.23.40:567][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Pool_Table) ...
+[2023.01.27-16.23.40:871][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Office_Chair) ...
+[2023.01.27-16.23.41:223][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Photocopier) ...
+[2023.01.27-16.23.41:323][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Ceiling_Light) ...
+[2023.01.27-16.23.41:612][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Sofa) ...
+[2023.01.27-16.23.41:655][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Armchair) ...
+[2023.01.27-16.23.41:879][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Fridge) ...
+[2023.01.27-16.23.42:012][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Coffee_Table) ...
+[2023.01.27-16.23.42:409][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_TV) ...
+[2023.01.27-16.23.42:594][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Meeting_Table) ...
+[2023.01.27-16.23.42:676][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Filing_Cabinet) ...
+[2023.01.27-16.23.43:081][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Server_Cabinet) ...
+[2023.01.27-16.23.43:367][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Countertop) ...
+[2023.01.27-16.23.45:020][964]LogMeshUtilities: Finished distance field build in 1.7s - 63x63x98 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 100% occupied, 199 triangles, AllProps_Server_Cabinet
+[2023.01.27-16.23.45:038][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Countertop_Corner) ...
+[2023.01.27-16.23.45:219][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Countertop_Sink) ...
+[2023.01.27-16.23.45:399][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Toaster) ...
+[2023.01.27-16.23.45:635][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Microwave) ...
+[2023.01.27-16.23.45:656][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Water_Cooler) ...
+[2023.01.27-16.23.45:698][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Plant_Pot) ...
+[2023.01.27-16.23.45:811][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Cabinet) ...
+[2023.01.27-16.23.45:832][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Cabinet_Drawers) ...
+[2023.01.27-16.23.46:062][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Mug) ...
+[2023.01.27-16.23.46:267][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Clock) ...
+[2023.01.27-16.23.46:288][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Photo_Frame) ...
+[2023.01.27-16.23.46:308][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Book_Shelf) ...
+[2023.01.27-16.23.46:332][964]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Door has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Door has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Fancy_Desk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Fancy_Desk has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Fancy_Desk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Server_Desk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Server_Desk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Normal_Desk has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Normal_Desk has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Shelf_Corner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Shelf_Corner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Pool_Table has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Pool_Table has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Photocopier has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Photocopier has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Ceiling_Light has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Ceiling_Light has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Fridge has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Fridge has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Coffee_Table has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Coffee_Table has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_TV has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_TV has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Meeting_Table has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Meeting_Table has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Filing_Cabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Filing_Cabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Server_Cabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Server_Cabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Countertop has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Countertop has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Countertop_Corner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Countertop_Corner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Countertop_Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Countertop_Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Microwave has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Microwave has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Cabinet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Cabinet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Cabinet_Drawers has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Cabinet_Drawers has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Mug has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Mug has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:333][964]FBXImport: Warning: AllProps_Photo_Frame has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:334][964]FBXImport: Warning: AllProps_Photo_Frame has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:334][964]FBXImport: Warning: AllProps_Book_Shelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.01.27-16.23.46:334][964]FBXImport: Warning: AllProps_Book_Shelf has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.01.27-16.23.46:399][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Props/AllProps_Door) ...
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: ================================================
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: Total job queries 20, among them cache hits 0 (0.00%)
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 1 distinct outputs (50.00%)
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: Shaders Compiled: 10
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: Jobs assigned 10, completed 2 (20.00%)
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.01.27-16.23.48:701][ 27]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 1.16 s
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Job execution time: average 1.20 s, max 1.20 s
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 1.27
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.27 s
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Average processing rate: 1.58 jobs/sec
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Effective parallelization: 0.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.54 sec)
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    2 times, average 0.55 sec, max 0.56 sec, min 0.54 sec)
+[2023.01.27-16.23.48:702][ 27]LogShaderCompilers: Display: ================================================
+[2023.01.27-16.23.52:542][208]LogSlate: Window 'Message Log' being destroyed
+[2023.01.27-16.23.52:547][208]LogSlate: Window 'Message Log' being destroyed
+[2023.01.27-16.24.00:837][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.01.27-16.24.02:408][697]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.27-16.24.02:437][697]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Props/Material_002.Material_002
+	Asset Type: Material
+	Asset Name: /Game/Props/Material_003.Material_003
+	Asset Type: Material
+	Asset Name: /Game/Props/Material_004.Material_004
+	Asset Type: Material
+	Asset Name: /Game/Props/Material_006.Material_006
+	Asset Type: Material
+[2023.01.27-16.24.02:809][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.01.27-16.24.02:844][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.01.27-16.24.02:877][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.01.27-16.24.17:587][551]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.27-16.24.17:594][551]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.27-16.24.17:610][552]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.27-16.24.28:225][189]LogContentBrowser: Attempting asset rename: NewFolder -> All_Props
+[2023.01.27-16.24.28:228][189]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.27-16.24.34:471][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Armchair" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Armchair.uasset" SILENT=true
+[2023.01.27-16.24.34:635][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Armchair
+[2023.01.27-16.24.34:635][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_ArmchairFB2E1347440A043CCDC6A4A4318DDFDD.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Armchair.uasset'
+[2023.01.27-16.24.34:654][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Book_Shelf" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Book_Shelf.uasset" SILENT=true
+[2023.01.27-16.24.34:838][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Book_Shelf
+[2023.01.27-16.24.34:838][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Book_ShelfA13AD88E4DA3DA9A616DAE865252889F.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Book_Shelf.uasset'
+[2023.01.27-16.24.34:857][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Cabinet" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Cabinet.uasset" SILENT=true
+[2023.01.27-16.24.35:025][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Cabinet
+[2023.01.27-16.24.35:026][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_CabinetC3CDD8324A7D8985A03B7CBBCB7F4623.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Cabinet.uasset'
+[2023.01.27-16.24.35:046][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Cabinet_Drawers" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Cabinet_Drawers.uasset" SILENT=true
+[2023.01.27-16.24.35:218][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Cabinet_Drawers
+[2023.01.27-16.24.35:218][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Cabinet_Drawers7E28DF074821A498A06D069A922CD269.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Cabinet_Drawers.uasset'
+[2023.01.27-16.24.35:235][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Ceiling_Light" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Ceiling_Light.uasset" SILENT=true
+[2023.01.27-16.24.35:429][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Ceiling_Light
+[2023.01.27-16.24.35:430][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Ceiling_Light0ABFA6994E7DA6FED66A34AEE3EF3640.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Ceiling_Light.uasset'
+[2023.01.27-16.24.35:450][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Clock" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Clock.uasset" SILENT=true
+[2023.01.27-16.24.35:713][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Clock
+[2023.01.27-16.24.35:713][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Clock7BE3D11D4E10D5C76682DB94CDD01E8B.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Clock.uasset'
+[2023.01.27-16.24.35:732][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Coffee_Table" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Coffee_Table.uasset" SILENT=true
+[2023.01.27-16.24.35:911][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Coffee_Table
+[2023.01.27-16.24.35:911][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Coffee_Table7C6788AE49CAF0EA7897589CD565843A.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Coffee_Table.uasset'
+[2023.01.27-16.24.35:943][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Countertop" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Countertop.uasset" SILENT=true
+[2023.01.27-16.24.36:107][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Countertop
+[2023.01.27-16.24.36:107][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Countertop46F4241545284A3DD382529D945E412A.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Countertop.uasset'
+[2023.01.27-16.24.36:129][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Countertop_Corner" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Countertop_Corner.uasset" SILENT=true
+[2023.01.27-16.24.36:291][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Countertop_Corner
+[2023.01.27-16.24.36:291][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Countertop_CornerCF81D79648F55520E04C17859DDB0EEE.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Countertop_Corner.uasset'
+[2023.01.27-16.24.36:314][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Countertop_Sink" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Countertop_Sink.uasset" SILENT=true
+[2023.01.27-16.24.36:471][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Countertop_Sink
+[2023.01.27-16.24.36:471][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Countertop_SinkACA82C3340C321DA212D5DB6A7C39D95.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Countertop_Sink.uasset'
+[2023.01.27-16.24.36:494][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Door" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Door.uasset" SILENT=true
+[2023.01.27-16.24.36:646][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Door
+[2023.01.27-16.24.36:646][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Door203B84A542A578405D79E1B1AEAE5DDB.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Door.uasset'
+[2023.01.27-16.24.36:668][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Fancy_Desk" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Fancy_Desk.uasset" SILENT=true
+[2023.01.27-16.24.36:828][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Fancy_Desk
+[2023.01.27-16.24.36:828][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Fancy_Desk5EB42F474F0DB87CA38749B6760C47ED.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Fancy_Desk.uasset'
+[2023.01.27-16.24.36:855][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Filing_Cabinet" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Filing_Cabinet.uasset" SILENT=true
+[2023.01.27-16.24.37:013][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Filing_Cabinet
+[2023.01.27-16.24.37:013][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Filing_CabinetFD3A389748D9B8358656A29EDEDF1935.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Filing_Cabinet.uasset'
+[2023.01.27-16.24.37:040][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Fridge" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Fridge.uasset" SILENT=true
+[2023.01.27-16.24.37:198][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Fridge
+[2023.01.27-16.24.37:198][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Fridge60A78A564759B3E2C8F36AABBF7F9384.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Fridge.uasset'
+[2023.01.27-16.24.37:229][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Meeting_Table" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Meeting_Table.uasset" SILENT=true
+[2023.01.27-16.24.37:390][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Meeting_Table
+[2023.01.27-16.24.37:390][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Meeting_Table23F521D5415A6C9903515188511B718E.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Meeting_Table.uasset'
+[2023.01.27-16.24.37:418][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Microwave" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Microwave.uasset" SILENT=true
+[2023.01.27-16.24.37:577][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Microwave
+[2023.01.27-16.24.37:577][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Microwave7A7161FC438320B7CE2801B5D9A93805.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Microwave.uasset'
+[2023.01.27-16.24.37:606][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Mug" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Mug.uasset" SILENT=true
+[2023.01.27-16.24.37:778][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Mug
+[2023.01.27-16.24.37:778][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Mug37BF8D174C064C2867FC028189737784.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Mug.uasset'
+[2023.01.27-16.24.37:808][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Normal_Desk" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Normal_Desk.uasset" SILENT=true
+[2023.01.27-16.24.37:980][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Normal_Desk
+[2023.01.27-16.24.37:980][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Normal_DeskAAAF5DE54C00E3213B63DFB99A9E72EC.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Normal_Desk.uasset'
+[2023.01.27-16.24.38:011][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Office_Chair" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Office_Chair.uasset" SILENT=true
+[2023.01.27-16.24.38:171][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Office_Chair
+[2023.01.27-16.24.38:171][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Office_Chair4AF1AEDB48E559F622A54C81BF8FDE30.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Office_Chair.uasset'
+[2023.01.27-16.24.38:200][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Photo_Frame" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Photo_Frame.uasset" SILENT=true
+[2023.01.27-16.24.38:366][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Photo_Frame
+[2023.01.27-16.24.38:366][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Photo_FrameB9B2D67D47C7DD4DBC053AAF6528D154.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Photo_Frame.uasset'
+[2023.01.27-16.24.38:397][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Photocopier" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Photocopier.uasset" SILENT=true
+[2023.01.27-16.24.38:547][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Photocopier
+[2023.01.27-16.24.38:547][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Photocopier2E756B4442EB247405970DA509CC0C7B.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Photocopier.uasset'
+[2023.01.27-16.24.38:584][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Plant_Pot" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Plant_Pot.uasset" SILENT=true
+[2023.01.27-16.24.38:747][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Plant_Pot
+[2023.01.27-16.24.38:747][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Plant_Pot4E85C4F34DF9D2335BE05DA968ACC749.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Plant_Pot.uasset'
+[2023.01.27-16.24.38:784][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Pool_Table" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Pool_Table.uasset" SILENT=true
+[2023.01.27-16.24.38:969][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Pool_Table
+[2023.01.27-16.24.38:969][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Pool_Table4091A3FC48B7928705F540B7E8B3BAE1.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Pool_Table.uasset'
+[2023.01.27-16.24.39:007][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Server_Cabinet" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Server_Cabinet.uasset" SILENT=true
+[2023.01.27-16.24.39:169][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Server_Cabinet
+[2023.01.27-16.24.39:169][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Server_Cabinet91160C8642CD36DC99E2DC8B140BDCF9.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Server_Cabinet.uasset'
+[2023.01.27-16.24.39:217][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Server_Desk" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Server_Desk.uasset" SILENT=true
+[2023.01.27-16.24.39:376][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Server_Desk
+[2023.01.27-16.24.39:376][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Server_DeskE2816E64446EB2F037288AAF831DEEF1.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Server_Desk.uasset'
+[2023.01.27-16.24.39:415][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Shelf_Corner" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Shelf_Corner.uasset" SILENT=true
+[2023.01.27-16.24.39:588][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Shelf_Corner
+[2023.01.27-16.24.39:588][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Shelf_CornerB56EFBEB48C77C20A0AB13A3CE7EE162.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Shelf_Corner.uasset'
+[2023.01.27-16.24.39:630][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Sofa" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Sofa.uasset" SILENT=true
+[2023.01.27-16.24.39:821][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Sofa
+[2023.01.27-16.24.39:821][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Sofa3DE8E4CF495C348BF0F526AF69391129.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Sofa.uasset'
+[2023.01.27-16.24.39:865][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Toaster" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Toaster.uasset" SILENT=true
+[2023.01.27-16.24.40:027][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Toaster
+[2023.01.27-16.24.40:027][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Toaster88144A4D4F6887796E9066B8AD517A6B.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Toaster.uasset'
+[2023.01.27-16.24.40:067][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_TV" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_TV.uasset" SILENT=true
+[2023.01.27-16.24.40:219][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_TV
+[2023.01.27-16.24.40:219][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_TVA78DF1E14E0BEC2F9DFDC6B1FBA94A36.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_TV.uasset'
+[2023.01.27-16.24.40:255][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/All_Props/AllProps_Water_Cooler" FILE="I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Water_Cooler.uasset" SILENT=true
+[2023.01.27-16.24.40:421][529]LogSavePackage: Moving output files for package: /Game/Props/All_Props/AllProps_Water_Cooler
+[2023.01.27-16.24.40:421][529]LogSavePackage: Moving 'I:/3D Horror/FirstPersonHorror/Saved/AllProps_Water_Cooler2D44E2D4407B87A718721CA358C7C870.tmp' to 'I:/3D Horror/FirstPersonHorror/Content/Props/All_Props/AllProps_Water_Cooler.uasset'
